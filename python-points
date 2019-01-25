@@ -1,0 +1,67 @@
+** Why should you learn to
+write programs
+
+* Writing programs (or programming) - creative and rewarding.
+* Reasons - solving data analysis, solve others problems.
+
+** Pre-requisites
+* Eager to learn new skill
+* Once new skill is known - then we find where opportunity to apply that skill.
+
+-- Personal Digital Assistant -image
+
+* Know the language of computer - assign some work.
+* Ex: Find most used word in a paragraph.
+>>> python words.py
+Enter file: words.txt
+to 16
+
+* Computers are good at things that humans are not.
+(One of the reason why you need to learn programming)	
+
+--
+
+Creativity and motivation
+
+* Programming is a profession - which is rewarding job both financially and personally.
+* Building usefull, elegant and clever programs is very creative activity.
+
+-- PDA image 1.2
+
+* In this session, motivation is not making money or please users,
+* Be productive in handling data and information.
+* As you learn, you feel programming more cretaive to you turn twards developing programs for others.
+
+** Computer hardware architecture
+* Lets see how computers built
+
+* Central Processing Unit (or CPU)
+  - If your computer is rated at 3.0 Gigahertz, it means that the CPU will ask “What next?” three billion times
+per second.
+* Main Memory
+* Secondary Memory
+* Input and Output Devices
+* Network connections
+
+* Programmer -> tell CPU what to do.
+* CPU uses other connecter resources.
+* Not possible human to sit in CPU and instruct.
+* Stored instructions - Programs
+* Writing these insturctions down - Programming
+
+** Understanding programming
+* Aim : turn you into a person who is skilled in the art
+of programming.
+* In the end you will be a programmer - may not be a professional
+programmer.
+* You will have the skills to look at a data/information
+analysis problem and develop a program to solve the problem.
+
+** Skills to be a programmer
+* Know programming language (Python)
+* Tell a story - program (story) - problem(idea)
+
+** Words and sentences
+* We call this “vocabulary” the “reserved words”.
+* My own words - variables.
+* 
